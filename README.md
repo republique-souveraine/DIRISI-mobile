@@ -1,3 +1,8 @@
+# Dirisi Fork
+version 1.0.0 => 1.21.0
+=========
+à mettre à jour
+
 # Mattermost Mobile
 
 - **Supported Server versions:** 4.10+
