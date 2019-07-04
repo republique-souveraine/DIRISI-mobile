@@ -13,6 +13,8 @@ Mattermost is an open source Slack-alternative used by thousands of companies ar
 
 You can download our apps from the [App Store](https://about.mattermost.com/mattermost-ios-app/) or [Google Play Store](https://about.mattermost.com/mattermost-android-app/), or [build them yourself](https://developers.mattermost.com/contribute/mobile/build-your-own/). 
 
+Please see pre-requisite for [Developer Setup](https://developers.mattermost.com/contribute/mobile/developer-setup/)
+
 We plan on releasing monthly updates with new features - check the [changelog](https://github.com/mattermost/mattermost-mobile/blob/master/CHANGELOG.md) for what features are currently supported! 
 
 **Important:** If you self-compile the Mattermost Mobile apps you also need to deploy your own [Mattermost Push Notification Service](https://github.com/mattermost/mattermost-push-proxy/releases). 
