@@ -93,3 +93,5 @@ ios/Pods/
 
 #editor-settings
 .vscode
+android/gradle.properties
+android/gradle.properties
