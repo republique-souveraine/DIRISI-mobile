@@ -1,9 +1,9 @@
 {
-  "name": "mattermost-mobile",
-  "version": "1.21.1",
+  "name": "RSApp-mobile",
+  "version": "1.00.0",
   "description": "Mattermost Mobile with React Native",
-  "repository": "git@github.com:mattermost/mattermost-mobile.git",
-  "author": "Mattermost, Inc.",
+  "repository": "git@github.com:republique-souveraine/DIRISI-mobile.git",
+  "author": "République souveraine et Mattermost, Inc.",
   "license": "Apache 2.0",
   "private": true,
   "dependencies": {

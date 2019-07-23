@@ -1,4 +1,4 @@
-Mattermost Mobile
+RSApp Mobile
 © 2016-present Mattermost, Inc.  All Rights Reserved.  See LICENSE.txt for license information.
 
 NOTICES:
