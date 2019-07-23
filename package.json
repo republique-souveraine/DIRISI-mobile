@@ -1,9 +1,9 @@
 {
-  "name": "RSApp-mobile",
-  "version": "1.00.0",
+  "name": "mattermost-mobile",
+  "version": "1.22.0",
   "description": "Mattermost Mobile with React Native",
-  "repository": "git@github.com:republique-souveraine/DIRISI-mobile.git",
-  "author": "République souveraine et Mattermost, Inc.",
+  "repository": "git@github.com:mattermost/mattermost-mobile.git",
+  "author": "Mattermost, Inc.",
   "license": "Apache 2.0",
   "private": true,
   "dependencies": {
@@ -20,7 +20,7 @@
     "intl": "1.2.5",
     "jail-monkey": "2.2.0",
     "jsc-android": "241213.2.0",
-    "mattermost-redux": "github:mattermost/mattermost-redux#3277c79c0312a6b4dd4c9421d09d6aaa1c18307a",
+    "mattermost-redux": "github:mattermost/mattermost-redux#3e283f1d52cd70a9323e314b9d95757b9e216aea",
     "mime-db": "1.40.0",
     "moment-timezone": "0.5.25",
     "prop-types": "15.7.2",
