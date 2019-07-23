@@ -95,3 +95,4 @@ ios/Pods/
 .vscode
 android/gradle.properties
 android/gradle.properties
+android/app/google-services.json
