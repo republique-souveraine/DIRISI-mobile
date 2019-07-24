@@ -1,4 +1,4 @@
-package com.mattermost.rnbeta;
+package fr.republiquesouveraine.rsapp;
 
 import android.app.Activity;
 import android.support.annotation.NonNull;
@@ -96,7 +96,7 @@ public class MainApplication extends NavigationApplication implements INotificat
 
   @Override
   public boolean isDebug() {
-    return BuildConfig.DEBUG;
+    return false;
   }
 
   @NonNull

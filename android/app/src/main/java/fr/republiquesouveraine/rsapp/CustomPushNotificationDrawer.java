@@ -1,4 +1,4 @@
-package com.mattermost.rnbeta;
+package fr.republiquesouveraine.rsapp;
 
 import android.content.Context;
 
